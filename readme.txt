@@ -1,0 +1,9 @@
+/*
+coding by coffeeScript
+an simple javascript framework
+i just want learn more
+welcome sharing and forking it
+
+
+this code is under the MIT and GPL Licenses
+*/
